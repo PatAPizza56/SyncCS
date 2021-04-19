@@ -1,0 +1,16 @@
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\SyncCS.exe
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\SyncCS.deps.json
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\SyncCS.runtimeconfig.json
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\SyncCS.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\SyncCS.dll
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\ref\SyncCS.dll
+C:\Users\Michael\source\repos\SyncCS\SyncCS\bin\Debug\net5.0\SyncCS.pdb
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.AssemblyInfo.cs
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.dll
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\ref\SyncCS.dll
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.pdb
+C:\Users\Michael\source\repos\SyncCS\SyncCS\obj\Debug\net5.0\SyncCS.genruntimeconfig.cache
